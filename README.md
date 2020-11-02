@@ -1,6 +1,6 @@
 
 # Live Demo #
-![https://arepaquemada.github.io/clipboard-laning-page/]
+https://arepaquemada.github.io/clipboard-laning-page/
 
 # Frontend Mentor - Clipboard landing page
 
